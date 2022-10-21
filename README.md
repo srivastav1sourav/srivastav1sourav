@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srivastav1sourav
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me srivastav1sourav@gmail.com 
 
 <!---
