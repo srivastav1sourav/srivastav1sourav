@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @srivastav1sourav
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on Data science projects
-- 📫 How to reach me srivastav1sourav@gmail.com 
+# Data Analysis Portfolio
 
-<!---
-srivastav1sourav/srivastav1sourav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository showcases my data analysis projects. Each project offers a brief description and a link to view the details:
+
+## Project 1: Netflix Data Analysis
+- **Description:** Utilized Tableau to perform exploratory data analysis (EDA) on a Netflix dataset with 12 fields and 6999 rows. Employed diverse visualizations such as column charts, bar graphs, and maps to effectively illustrate content preferences.
+- **Tech Stack:** Tableau
+- [View Project](link_to_project2_folder)
+
+
+Project 2: Healthcare Data Analysis
+- **Description:** Developed an interactive Tableau dashboard providing comprehensive visualizations and insights into key factors affecting death. Created scatter plots, histograms, box plots, and pie charts for a dataset with 25 fields and 299 rows, analyzing key factors impacting death.
+- **Tech Stack:** Tableau
+- [View Project](link_to_project3_folder)
+
+
+## Contact:
+- Email: Srivastav1sourav@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sourav-srivastava-39b944153/
+
+Thank you for visiting my Data Analysis Portfolio!
